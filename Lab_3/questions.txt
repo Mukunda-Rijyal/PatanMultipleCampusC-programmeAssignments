@@ -1,0 +1,23 @@
+1. WAP to find the largest element of an array.
+2. WAP to find the smallest element of an array using dynamic memory allocation and pointers.
+3. WAP to sort an array in ascending order.
+4. Write a program in C to find the sum of rows and columns of a matrix.
+5. Write a program in C to display the lower triangular elements of a given square matrix.
+6. Write a program in C to find the product of two matrices.
+7. Write a program using an array of structures to store the data for 10 employees with fields (e_sn, f_name, l_name, address, mobile_no) and display the records in an appropriate format.
+8. Write a program that defines an array of integers with dynamic memory allocation and computes the sum of the array using a function of your own.
+9. WAP to find the sum of an array using a user-defined function.
+10. Write a program to find whether a given string is a palindrome using a user-defined function.
+11. Write a program to swap two numbers using a function swap(int, int) with:
+    a> Pass by value
+    b> Pass by reference
+12. Write a program to pass an array to a function using a pointer and return an array from a function using a pointer.
+13. Write a program that illustrates the similarity between arrays and pointers.
+14. Write a program in C to find the factorial of a given integer using recursion.
+15. Write a program to find the first 10 numbers in the Fibonacci series using recursion.
+16. Write a program to find the number of times the vowel ‘e’ appears in a given string.
+17. Write a program defining a structure to store the data for a student with fields (roll_no, f_name, l_name, address, mobile_no) and display the record in an appropriate format.
+18. Write a program defining a union to store the data for a student with fields (roll_no, f_name, l_name, address, mobile_no). Illustrate the property of unions by accessing only one data member at a time.
+19. Write a program to prompt the user to input a filename and read the content of the file, then display it on the screen.
+20. Write a program to read from a text file and count the number of lines and characters in that file.
+21. Write a program to read a text file and copy all contents into a new file.
