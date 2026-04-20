@@ -1,5 +1,4 @@
-/*Write a program in C to display the lower triangular elements of a given square matrix*/
-
+/*5. Write a program in C to display the lower triangular elements of a given square matrix*/
 #include <stdio.h>
 int main()
 {

@@ -1,5 +1,4 @@
 /*2. WAP to find the smallest element of an array using dynamic memory allocation and pointers.*/
-
 #include <stdio.h>
 #include <stdlib.h>
 int main()

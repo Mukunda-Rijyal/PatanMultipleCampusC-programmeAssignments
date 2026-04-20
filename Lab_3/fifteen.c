@@ -1,6 +1,5 @@
 /*15. Write a program to find the first 10 numbers in the Fibonacci series using recursion.*/
 #include <stdio.h>
-
 int fibonacci(int n) {
     if (n <= 1) {
         return n;

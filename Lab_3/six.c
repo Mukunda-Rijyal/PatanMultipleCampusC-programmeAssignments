@@ -1,6 +1,5 @@
 /*6. Write a program in C to find the product of two matrices.*/
 #include <stdio.h>
-
 int main() {
     int r1, c1, r2, c2, i, j, k;
     printf("Enter rows and columns for first matrix: ");
